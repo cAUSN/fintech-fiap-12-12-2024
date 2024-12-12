@@ -1,4 +1,4 @@
-Projeto de HTML e CSS - Primeiro Semestre de ADS/
+Projeto de HTML e CSS - Primeiro Semestre de ADS
 
 Esse repositório é o resultado da minha primeira tarefa de HTML e CSS do curso de Análise e Desenvolvimento de Sistemas. O objetivo foi criar uma tela de aplicativo simples, com design responsivo.
 
